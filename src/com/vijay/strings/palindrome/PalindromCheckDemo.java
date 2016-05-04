@@ -6,7 +6,7 @@ package com.vijay.strings.palindrome;
 import java.util.Scanner;
 
 /**
- * @author vkonduru3
+ * @author vijay
  *
  */
 public class PalindromCheckDemo {
